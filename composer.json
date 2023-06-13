@@ -3,6 +3,8 @@
     "type": "library",
     "description": "Simple component for HTTP requests",
     "license": "MIT",
+    "version": "1.0",
+    "homepage": "https://github.com/ernandesrs/requester",
     "authors": [
         {
             "name": "Ernandes R Souza",
