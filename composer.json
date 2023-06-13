@@ -1,0 +1,22 @@
+{
+    "name": "ernandesrs/requester",
+    "type": "library",
+    "description": "Simple component for HTTP requests",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ernandes R Souza",
+            "email": "ernandesrsouza@gmail.com",
+            "homepage": "https://github.com/ernandesrs",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ErnandesRS\\Requester\\": "app/src/"
+        }
+    }
+}
